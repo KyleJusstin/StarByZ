@@ -43,7 +43,7 @@ reset = "\033[00m"
 # KEY APPROVAL SYSTEM
 # ===============================
 
-SHEET_ID = "1mernkvpk07PuqSEfsdlDsiju6F5cd9Mex6NlerAECAk"
+SHEET_ID = "1SfizOga-9kZKvgcDvTMr6NLuZyq9J2PbLruRMaOYX44"
 SHEET_CSV_URL = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/export?format=csv&gid=0"
 LOCAL_KEYS_FILE = os.path.expanduser("~/.turbo_approved_keys.txt")
 
